@@ -14,4 +14,6 @@
   },
   "author": "kissress (aka) no name",
   "license": "Botpress Proprietary License"
+  "engine": ">=8.0"
 }
+
